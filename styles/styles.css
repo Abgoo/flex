@@ -90,7 +90,7 @@
 .button:hover {
     background-color: purple;
     cursor: pointer;
-    transition: 0.8s ease;
+    transition: 0.4s linear;
 }
 
 .wave {
@@ -216,7 +216,7 @@ footer {
     margin-top: 80px;
     background: #111;
     height: auto;
-    width: 100vw;
+    width: 100%;
     padding-top: 40px;
     color: #fff;
 }
