@@ -217,7 +217,7 @@
         margin-top: 80px;
         background: #111;
         height: auto;
-        width: 100vh;
+        width: 100vw;
         padding-top: 40px;
         color: #fff;
     }
@@ -271,7 +271,7 @@
     
     .footer-bottom {
         background: #000;
-        width: 100vh;
+        width: 100vw;
         padding: 20px 0;
         text-align: center;
     }
