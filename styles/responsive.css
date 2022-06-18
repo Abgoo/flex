@@ -93,13 +93,13 @@
 
 @media (max-width: 768px) {
     .footer-content {
-        padding-right: 200px;
+        padding-right: 70px;
     }
 }
 
 @media (max-width: 768px) {
     .footer-bottom {
-        padding-right: 200px;
+        padding-right: 70px;
     }
 }
 
