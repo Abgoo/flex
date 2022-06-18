@@ -107,6 +107,12 @@
 /* 1024px */
 
 @media (max-width: 1024px) {
+    .container1 {
+        width: 1024px;
+    }
+}
+
+@media (max-width: 1024px) {
     .header-inner {
         justify-content: space-evenly;
     }
