@@ -1,0 +1,132 @@
+/* 320px */
+
+@media (max-width: 320px) {
+    .nav {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .logo {
+        margin: 0 auto;
+        padding-top: 50px;
+    }
+}
+
+@media (max-width: 320px) {
+    .element1 {
+        padding-left: 30px;
+    }
+}
+
+@media (max-width: 320px) {
+    .button {
+        margin-bottom: 50px;
+        margin-right: 90px;
+    }
+}
+
+@media (max-width: 320px) {
+    .midbox {
+        padding-left: 30px;
+    }
+}
+
+@media (max-width: 320px) {
+    .boxes {
+        padding-left: 70px;
+    }
+}
+
+@media (max-width: 320px) {
+    .footer {
+        width: 700px;
+    }
+}
+
+
+/* 768px */
+
+@media (max-width: 768px) {
+    .nav {
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    .image {
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    .element1 {
+        align-items: center;
+        margin-left: 80px;
+    }
+}
+
+@media (max-width: 768px) {
+    .logo {
+        margin-left: 80px;
+    }
+}
+
+@media (max-width: 768px) {
+    .midbox {
+        margin-left: 0px;
+    }
+}
+
+@media (max-width: 768px) {
+    .box1 {
+        margin: 0 10px 10px 10px;
+    }
+}
+
+@media (max-width: 768px) {
+    .boxes {
+        flex-direction: column;
+        margin-left: 200px;
+    }
+}
+
+
+/* 1024px */
+
+@media (max-width: 1024px) {
+    .header-inner {
+        justify-content: space-evenly;
+    }
+}
+
+@media (max-width: 1024px) {
+    .element1 {
+        margin-left: 40px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .image {
+        width: 70%;
+    }
+}
+
+@media (max-width: 1024px) {
+    .button {
+        margin-left: 150px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .box1 {
+        width: 370px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .boxes {
+        flex-wrap: wrap;
+        margin-left: 120px;
+    }
+}
