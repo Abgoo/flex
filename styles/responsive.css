@@ -68,19 +68,19 @@
 
 @media (max-width: 768px) {
     .logo {
-        margin-left: 80px;
+        margin-right: 900px;
     }
 }
 
 @media (max-width: 768px) {
     .midbox {
-        margin-left: 0px;
+        margin-left: 10px;
     }
 }
 
 @media (max-width: 768px) {
     .box1 {
-        margin: 0 10px 10px 10px;
+        margin-left: 60px;
     }
 }
 
@@ -88,6 +88,18 @@
     .boxes {
         flex-direction: column;
         margin-left: 200px;
+    }
+}
+
+@media (max-width: 768px) {
+    .footer-content {
+        padding-right: 200px;
+    }
+}
+
+@media (max-width: 768px) {
+    .footer-bottom {
+        padding-right: 200px;
     }
 }
 
