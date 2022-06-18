@@ -113,6 +113,12 @@
 }
 
 @media (max-width: 1024px) {
+    .nav {
+        margin-right: 40px;
+    }
+}
+
+@media (max-width: 1024px) {
     .element1 {
         margin-left: 40px;
     }
